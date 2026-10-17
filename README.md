@@ -11,6 +11,11 @@ Most of what I build is tooling for my own use, and I measure it: which search e
 **Projects**
 - [buying-vs-renting](https://github.com/Conceptron/buying-vs-renting) — Bay Area buy-vs-rent calculator (CLI + Streamlit) that finds the break-even year
 
+**Open source**
+- [iTerm2](https://github.com/gnachman/iTerm2) — option to make the left-side tab bar scrollable (merged)
+- [Markor](https://github.com/gsantner/markor) — math rendering, table of contents, and photo-to-markdown insert (2 PRs merged)
+- [DiscordAlertsTrader](https://github.com/AdoNunes/DiscordAlertsTrader) — backtesting for stock alerts and alert-parsing fixes (4 PRs merged)
+
 **Interests:** AI agents and tool use · measurement and evals · macOS internals · personal finance
 
 [kritinsathi.com](https://kritinsathi.com) · [LinkedIn](https://www.linkedin.com/in/kritin-sathi-b3a3a9100/)
